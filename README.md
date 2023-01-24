@@ -21,7 +21,8 @@ Steps :
 
 4) Verify the results under S3 section.
 
-![Screenshot (119)](https://user-images.githubusercontent.com/14953882/214209674-36b6ba19-761a-44dd-8b3b-cd9605fb64cd.png)
+![Screenshot (116)](https://user-images.githubusercontent.com/14953882/214209849-d8b6d444-2030-4a48-a4ab-9fa4d25156e2.png)
+
 
 
 
